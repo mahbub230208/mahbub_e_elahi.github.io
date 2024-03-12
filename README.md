@@ -1,12 +1,11 @@
-# mahbub_e_elahi.github.io
+# mahbub_e_elahi
 
-# Lectuer in Northern University of Business and Technology Khulna
-
-# Part time Lectuer in Khulna University
 
 ### Work Experince
 
+Lectuer in Northern University of Business and Technology Khulna
 
+Part time Lectuer in Khulna University
 
 
 ### Projects that I have worked  on
