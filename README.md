@@ -1,5 +1,6 @@
 # mahbub_e_elahi
-
+Bsc in Khulna University
+Msc in Khulna University
 
 ### Work Experince
 
